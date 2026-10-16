@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Center glow halo -->
+        <path
+            android:pathData="M54,54m-26,0a26,26 0 1,0 52,0a26,26 0 1,0 -52,0"
+            android:fillColor="#15FFD700" />
+
+        <!-- Outer ornate decorative ring -->
+        <path
+            android:pathData="M54,54m-28,0a28,28 0 1,0 56,0a28,28 0 1,0 -56,0"
+            android:strokeWidth="1.2"
+            android:strokeColor="#FFD700"
+            android:fillColor="#00000000" />
+
+        <!-- Bridal Tiara / Crown -->
+        <path
+            android:pathData="M38,47 L43,39 L48,44 L54,34 L60,44 L65,39 L70,47 Z"
+            android:fillColor="#FFD700" />
+
+        <!-- Tiara Jewels -->
+        <path
+            android:pathData="M54,31m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0"
+            android:fillColor="#FFF9C4" />
+        <path
+            android:pathData="M43,36m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0"
+            android:fillColor="#FFF9C4" />
+        <path
+            android:pathData="M65,36m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0"
+            android:fillColor="#FFF9C4" />
+
+        <!-- Maang Tikka Teardrop Drop -->
+        <path
+            android:pathData="M54,38 L54,49"
+            android:strokeWidth="1.2"
+            android:strokeColor="#FFD700" />
+        <path
+            android:pathData="M54,51 C52,51 51.5,53 54,56 C56.5,53 56,51 54,51 Z"
+            android:fillColor="#FFF176" />
+
+        <!-- Lotus & Beauty Flourish Base -->
+        <!-- Center petal -->
+        <path
+            android:pathData="M54,58 C51,64 51,70 54,75 C57,70 57,64 54,58 Z"
+            android:fillColor="#FFC107" />
+        <!-- Left petal -->
+        <path
+            android:pathData="M52,62 C45,63 40,68 43,74 C47,75 51,70 52,66 Z"
+            android:fillColor="#FFD54F" />
+        <!-- Right petal -->
+        <path
+            android:pathData="M56,62 C63,63 68,68 65,74 C61,75 57,70 56,66 Z"
+            android:fillColor="#FFD54F" />
+        <!-- Left outer flare -->
+        <path
+            android:pathData="M48,68 C39,69 36,76 41,78 C46,78 48,74 49,71 Z"
+            android:fillColor="#FFE082" />
+        <!-- Right outer flare -->
+        <path
+            android:pathData="M60,68 C69,69 72,76 67,78 C62,78 60,74 59,71 Z"
+            android:fillColor="#FFE082" />
+
+        <!-- Base pedestal arc -->
+        <path
+            android:pathData="M41,79 C48,82 60,82 67,79"
+            android:strokeWidth="1.5"
+            android:strokeColor="#FFD700"
+            android:fillColor="#00000000" />
+
+        <!-- Sparkles -->
+        <path
+            android:pathData="M33,40 L35,42 L33,44 L31,42 Z"
+            android:fillColor="#FFF9C4" />
+        <path
+            android:pathData="M75,40 L77,42 L75,44 L73,42 Z"
+            android:fillColor="#FFF9C4" />
+    </group>
+</vector>

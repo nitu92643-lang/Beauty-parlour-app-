@@ -1,0 +1,6 @@
+{
+  "name": "Dulhan Beauty Parlour",
+  "description": "Complete beauty parlour management, online appointment booking, bridal makeup packages, billing, customer and inventory tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
